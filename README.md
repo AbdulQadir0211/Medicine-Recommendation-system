@@ -96,9 +96,3 @@ This project is a Flask-based web application that predicts diseases based on us
 - **Integrate API services** for real-time medical suggestions.
 - **Enhance UI/UX** for a more interactive experience.
 
-## Contributors
-- **Your Name** - [GitHub Profile](https://github.com/your-profile)
-
-## License
-This project is licensed under the MIT License.
-
